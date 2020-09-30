@@ -6,7 +6,7 @@ int main(){
 	printf("s=");
 	scanf("%s",s);
 	for (int i=0; i<strlen(s);i++){
-		if ((s[i]='u') || (s[i]='e') || (s[i]='o') || (s[i]='a') || (s[i]='i')	)
+		if ((s[i]=='u') || (s[i]=='e') || (s[i]=='o') || (s[i]=='a') || (s[i]=='i')	)
         count++;
 		
 	}
