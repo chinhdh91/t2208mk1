@@ -21,6 +21,9 @@ int main(){
 	if(s<arr[0]){
 		printf("ko co so trong mang");
 	}
+	if(arr[n-1]<s){
+		printf("so can tim la %d",arr[n-1]) 
+	}
 		else{
 		
 	

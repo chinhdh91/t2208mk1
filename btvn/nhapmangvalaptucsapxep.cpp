@@ -15,8 +15,10 @@ int main(){
 				arr[i]=gan;
 			}
 		}
+		
 	}
-	printf("mang tu be den lon:");
+	printf("\n");
+	printf("mang tu be den lon: ");
 	for(int i=1;i<n;i++){
 		printf("%d  ",arr[i]);
 	}
