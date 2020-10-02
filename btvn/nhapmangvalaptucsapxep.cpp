@@ -19,7 +19,7 @@ int main(){
 	}
 	printf("\n");
 	printf("mang tu be den lon: ");
-	for(int i=1;i<n;i++){
+	for(int i=0;i<n;i++){
 		printf("%d  ",arr[i]);
 	}
 }
